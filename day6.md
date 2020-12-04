@@ -198,7 +198,7 @@ for (let count = 0; count < 30; count++) {
 }
 ```
 
-<!-- ### 練習問題の答え
+### 練習問題の答え
 
 #### Promise を使った例
 
@@ -248,4 +248,4 @@ async function main() {
   }
 }
 main();
-``` -->
+```
